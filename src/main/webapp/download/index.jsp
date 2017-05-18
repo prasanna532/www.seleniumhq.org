@@ -426,6 +426,7 @@
         <tr><th>Links:</th><td><a href="http://www.gorillalogic.com/flexmonkium">Download</a> - <a href="http://www.gorillalogic.com/forums/flexmonkium">Support</a></td></tr>
         <tr><th>Author:</th><td><a href="http://www.gorillalogic.com">Gorrila Logic</a></td></tr>
         <tr><th>License:</th><td>GPL</td></tr>
+	      <tr><th>Note:</th><td>Currently product is not available</td></tr>
       </table>
     </div>
     <div class="column">
